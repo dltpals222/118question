@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const fileName = "imsi";
+const fileName = "EvenOdd";
 
 const list = [".java", ".js", ".py"];
 const dirList = ["Java", "JavaScript", "Python"];

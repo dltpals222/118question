@@ -1,4 +1,6 @@
 def add (a : int, b: int ) -> int:
     return a + b
 
-print(add(5,10))
+addResult = add(5,10)
+
+print(addResult)

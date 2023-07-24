@@ -1,9 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const fileName = "EvenOdd";
+const fileName = "Conditional";
 
-const list = [".java", ".js", ".py"];
+const list = [".java", ".ts", ".py"];
 const dirList = ["Java", "JavaScript", "Python"];
 const mkFile = list.map((item, i) => path.join(__dirname, dirList[i], fileName + item));
 

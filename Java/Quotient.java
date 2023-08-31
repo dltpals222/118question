@@ -1,6 +1,6 @@
 public class Quotient {
-  public static int quotient (int a, int b) {
-    return a / b;
+  public static int quotient (int x, int y) {
+    return x / y;
   }
 
   public static void main (String[] args) {

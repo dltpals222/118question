@@ -1,7 +1,6 @@
 public class DataType {
   public static void main(String[] args) {
     String name = "이름";
-    int age = 11;
     boolean wow = true;
     Integer ageObj = 11;
 

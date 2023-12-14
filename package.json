@@ -4,11 +4,12 @@
     "typescript": "^5.1.6"
   },
   "name": "118question",
-  "description": "면접예상질문이라던지 기타 등등의 문제 풀어보기",
+  "description": "",
   "version": "1.0.0",
   "main": "makeFile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make": "node start.js"
   },
   "keywords": [],
   "author": "",
